@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "react": [ "./node_modules/@types/react" ]
+    }
+  },
+  "extends": "@react-native/typescript-config/tsconfig.json"
+}
